@@ -1,0 +1,7 @@
+print("*"*60)
+print("PROGRAM PYTHON".center(60))
+print("NAMA:RASHQA ANDREAN FITRAH SULAEMAN".center(60))
+print("KELAS:X PPLG 2".center(60))
+print("O857-2389-4370".center(60))
+print("MOTTO HIDUP: IT'S A BAD DAY,NOT A BAD LIFE".center(60))
+print("*"*60)
